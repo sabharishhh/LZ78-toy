@@ -1,0 +1,1 @@
+# LZ78 Toy Encoder and Decoder
